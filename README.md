@@ -1,4 +1,4 @@
-# .github
+Texas A&M University Computer Science Alumni
 
 ###### Congratulations on becoming a Texas A&M University-San Antonio Computer Science graduate!
 ###### TAMUSA has been producing CS Graduates for the last 9 years and you are now in an exclusive club joining the 61 alumni who have graduated before you.
