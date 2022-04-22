@@ -10,8 +10,7 @@
 ###### As we move forward, we are always looking for more volunteers to help make our Alma Mater's program into one that we can all be proud of, which includes jobs for everyone! 
 ###### If you are interested in getting involved, reach out to us via our LinkedIn page (which you have all been invited to) or through the TAMUSA Computer Science Discord server.
 ###### Once again congratulations again on your incredible milestone!
-###### Harry Staley    David Velez     Leonard Box     James Mick      Alvin Tran      David Zaldivar
-###### BSCS '19        BSCS '19        BSCS '21        BSCS '21        BSCS '21.       BSCS '21
+
 
 <!--
 ## Hi there 👋
